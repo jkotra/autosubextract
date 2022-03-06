@@ -33,7 +33,7 @@ class Subtitle {
 
 	public Integer position;
 	public String title;
-	public Double size;
+	public long size;
 	public String language;
 
 	@Override
@@ -86,7 +86,7 @@ public class JaffreeUtils {
 					Subtitle sub = new Subtitle();
 					sub.position = sub_counter;
 					if (stream.getTag("NUMBER_OF_BYTES") != null) {
-						sub.size = Double.parseDouble(stream.getTag("NUMBER_OF_BYTES"));
+						sub.size = Long.parseLong(stream.getTag("NUMBER_OF_BYTES"));
 					}
 					sub.title = stream.getTag("title");
 					sub.language = stream.getTag("language");
