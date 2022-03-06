@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="130.21211mm"
+   height="80.721176mm"
+   viewBox="0 0 130.21211 80.721176"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="drawing.svg"
+   inkscape:export-filename="/home/jkotra/bitmap.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.72159091"
+     inkscape:cx="31.181102"
+     inkscape:cy="111.55906"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="0"
+     inkscape:window-y="40"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-43.184956,-119.08025)">
+    <rect
+       style="fill:#ececec;stroke-width:0.264583"
+       id="rect31"
+       width="130.21211"
+       height="52.458858"
+       x="43.184956"
+       y="119.08025" />
+    <path
+       style="fill:#333333;stroke-width:0.366668"
+       d="m 146.54983,185.81747 c -4.99743,-7.77479 -9.01137,-14.21085 -8.91987,-14.30236 0.0915,-0.0915 8.17654,-0.12353 17.96673,-0.0712 l 17.80037,0.0952 -8.72766,14.05433 c -4.80021,7.72987 -8.79644,14.1231 -8.8805,14.20716 -0.0841,0.0841 -4.24165,-6.20835 -9.23907,-13.98314 z"
+       id="path415"
+       inkscape:transform-center-x="11.517303"
+       inkscape:transform-center-y="-14.822227" />
+    <a
+       id="a32944"
+       transform="translate(0.92598177,0.23769328)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.25;font-family:sans-serif;fill:#241c1c;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="87.474022"
+         y="151.62152"
+         id="text6879"><tspan
+           sodipodi:role="line"
+           id="tspan6877"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#d35f5f;stroke-width:0.264583"
+           x="87.474022"
+           y="151.62152">ASE</tspan></text>
+    </a>
+  </g>
+</svg>
