@@ -61,7 +61,7 @@ public class Main {
 		
 		if (cl.hasOption(ARG_INPUT) && !cl.hasOption(ARG_ALL)) {
 			Path input = Paths.get(cl.getOptionValue(ARG_INPUT));
-			JaffreeUtils.extractSubF(input, cl.getOptionValue(ARG_LANGUAGE));
+			JaffreeUtils.extractSubF(input, cl.getOptionValue(ARG_LANGUAGE, "eng"));
 		}
 		else if (cl.hasOption(ARG_ALL)) {
 

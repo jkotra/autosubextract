@@ -72,6 +72,8 @@ public class JaffreeUtils {
 			
 			if (stream.getCodecType() == StreamType.SUBTITLE) {
 				
+				sub_counter++;
+				
 				/*
 				 * System.out.println("ln" + stream.getCodecLongName());
 				 * System.out.println("tag: " + stream.getTag("language"));
@@ -92,8 +94,6 @@ public class JaffreeUtils {
 					sub.language = stream.getTag("language");
 					candidates.add(sub);
 				}
-
-				sub_counter++;
 
 			}
 
