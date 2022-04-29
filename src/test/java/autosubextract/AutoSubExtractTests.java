@@ -25,9 +25,11 @@ class AutoSubExtractTests {
 	}
 
 	@Test
-	void TestExtraction() {
+	void TestExtraction() throws Exception {
 
-		JaffreeUtils.extractSub(p, 0);
+		Subtitle s = new Subtitle();
+		s.setPosition(1);
+		s.extract(p, sub.toPath());
 		assertTrue(sub.exists());
 		
 	}

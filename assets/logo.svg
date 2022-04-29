@@ -2,16 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="130.21211mm"
-   height="80.721176mm"
-   viewBox="0 0 130.21211 80.721176"
+   width="149.7478mm"
+   height="61.289989mm"
+   viewBox="0 0 149.7478 61.289989"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="drawing.svg"
-   inkscape:export-filename="/home/jkotra/bitmap.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
+   sodipodi:docname="logo.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,53 +23,172 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
+     inkscape:snap-global="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="false"
+     inkscape:object-paths="false"
+     inkscape:snap-nodes="true"
+     inkscape:object-nodes="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
      inkscape:zoom="0.72159091"
-     inkscape:cx="31.181102"
-     inkscape:cy="111.55906"
+     inkscape:cx="311.11811"
+     inkscape:cy="32.566929"
      inkscape:window-width="1920"
      inkscape:window-height="1003"
      inkscape:window-x="0"
      inkscape:window-y="40"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0" />
+     inkscape:current-layer="layer1" />
   <defs
-     id="defs2" />
+     id="defs2">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect349"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,5.8208333,0,1 @ F,0,0,1,0,5.8208333,0,1 @ F,0,0,1,0,5.8208333,0,1 @ F,0,0,1,0,5.8208333,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="22"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect343"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,5.8208333,0,1 @ F,0,0,1,0,5.8208333,0,1 @ F,0,0,1,0,5.8208333,0,1 @ F,0,0,1,0,5.8208333,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="22"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect301"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,5.8208333,0,1 @ F,0,0,1,0,5.8208333,0,1 @ F,0,0,1,0,5.8208333,0,1 @ F,0,0,1,0,5.8208333,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="22"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect149"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,6.35,0,1 @ F,0,0,1,0,6.35,0,1 @ F,0,0,1,0,6.35,0,1 @ F,0,0,1,0,6.35,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="24"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : -87.210015 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_z="210 : -87.210015 : 1"
+       inkscape:persp3d-origin="105 : -136.71001 : 1"
+       id="perspective37" />
+  </defs>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-43.184956,-119.08025)">
-    <rect
-       style="fill:#ececec;stroke-width:0.264583"
-       id="rect31"
-       width="130.21211"
-       height="52.458858"
-       x="43.184956"
-       y="119.08025" />
+     style="display:inline"
+     transform="translate(-22.628004,-110.7076)">
     <path
-       style="fill:#333333;stroke-width:0.366668"
-       d="m 146.54983,185.81747 c -4.99743,-7.77479 -9.01137,-14.21085 -8.91987,-14.30236 0.0915,-0.0915 8.17654,-0.12353 17.96673,-0.0712 l 17.80037,0.0952 -8.72766,14.05433 c -4.80021,7.72987 -8.79644,14.1231 -8.8805,14.20716 -0.0841,0.0841 -4.24165,-6.20835 -9.23907,-13.98314 z"
-       id="path415"
-       inkscape:transform-center-x="11.517303"
-       inkscape:transform-center-y="-14.822227" />
-    <a
-       id="a32944"
-       transform="translate(0.92598177,0.23769328)">
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:22.5778px;line-height:1.25;font-family:sans-serif;fill:#241c1c;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="87.474022"
-         y="151.62152"
-         id="text6879"><tspan
-           sodipodi:role="line"
-           id="tspan6877"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5778px;font-family:Cantarell;-inkscape-font-specification:Cantarell;fill:#d35f5f;stroke-width:0.264583"
-           x="87.474022"
-           y="151.62152">ASE</tspan></text>
-    </a>
+       style="fill:#ffdd55;stroke-width:0.264583"
+       id="rect103"
+       width="149.7478"
+       height="61.289989"
+       x="22.628004"
+       y="110.7076"
+       inkscape:path-effect="#path-effect149"
+       d="M 28.978004,110.7076 H 166.02581 a 6.35,6.35 45 0 1 6.35,6.35 v 48.58999 a 6.35,6.35 135 0 1 -6.35,6.35 H 28.978004 a 6.35,6.35 45 0 1 -6.35,-6.35 V 117.0576 a 6.35,6.35 135 0 1 6.35,-6.35 z"
+       sodipodi:type="rect" />
+    <path
+       style="opacity:0.35;fill:#55ff99;stroke-width:0.264583"
+       id="rect173"
+       width="117.84241"
+       height="9.4893103"
+       x="39.279011"
+       y="120.34735"
+       inkscape:path-effect="#path-effect301"
+       d="M 45.099844,120.34735 H 151.30058 a 5.8208333,5.8208333 45 0 1 5.82084,5.82083 4.8651734,4.8651734 147.77955 0 1 -5.82084,3.66848 H 45.099844 a 5.8208333,5.8208333 45 0 1 -5.820833,-5.82083 4.8651734,4.8651734 147.77955 0 1 5.820833,-3.66848 z"
+       sodipodi:type="rect" />
+    <path
+       style="opacity:0.55;fill:#55ff99;stroke-width:0.264583"
+       id="path339"
+       width="117.84241"
+       height="9.4893103"
+       x="38.164822"
+       y="137.32941"
+       inkscape:path-effect="#path-effect343"
+       d="M 43.985655,137.32941 H 150.1864 a 5.8208333,5.8208333 45 0 1 5.82083,5.82083 4.8651734,4.8651734 147.77955 0 1 -5.82083,3.66848 H 43.985655 a 5.8208333,5.8208333 45 0 1 -5.820833,-5.82084 4.8651734,4.8651734 147.77955 0 1 5.820833,-3.66847 z"
+       sodipodi:type="rect" />
+    <path
+       style="opacity:0.75;fill:#55ff99;stroke-width:0.264583"
+       id="path345"
+       width="117.84241"
+       height="9.4893103"
+       x="37.313095"
+       y="154.19258"
+       inkscape:path-effect="#path-effect349"
+       d="M 43.133928,154.19258 H 149.33467 a 5.8208333,5.8208333 45 0 1 5.82083,5.82083 4.8651734,4.8651734 147.77955 0 1 -5.82083,3.66848 H 43.133928 a 5.8208333,5.8208333 45 0 1 -5.820833,-5.82083 4.8651734,4.8651734 147.77955 0 1 5.820833,-3.66848 z"
+       sodipodi:type="rect" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="33.472607"
+       y="147.30717"
+       id="text3803"><tspan
+         sodipodi:role="line"
+         id="tspan3801"
+         style="font-size:16.9333px;fill:#6c6753;stroke-width:0.264583"
+         x="33.472607"
+         y="147.30717">[</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-160.6093"
+       y="-136.689"
+       id="text28343"
+       transform="scale(-1)"><tspan
+         sodipodi:role="line"
+         id="tspan28341"
+         style="font-size:16.9333px;fill:#6c6753;stroke-width:0.264583"
+         x="-160.6093"
+         y="-136.689">[</tspan></text>
   </g>
 </svg>

@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/logo.png" height="196" />
+<img src="assets/logo.png" height="128" />
 </div>
 
 
@@ -22,7 +22,7 @@ usage: java -jar autosubextract.jar -i movie.mkv [-l eng] [--all]
 
 # Building
 
-AutoSubExtract uses [Maven Build System](https://maven.apache.org/) and target JDK/JRE 11.
+`AutoSubExtract` uses [Maven Build System](https://maven.apache.org/) and target JDK/JRE 11.
 
 To build executable JAR file:
 
