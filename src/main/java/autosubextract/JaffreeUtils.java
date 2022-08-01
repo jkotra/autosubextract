@@ -41,7 +41,7 @@ public class JaffreeUtils {
 		return Paths.get(output.toString());
 	}
 
-	public static void extractSubF(Path input, String language) throws Exception {
+	public static void extractSubF(Path input, String language, Boolean all) throws Exception {
 
 		System.out.println("[INFO] Processing: " + input.toString());
 
@@ -100,6 +100,10 @@ public class JaffreeUtils {
 				} catch (Exception e) {
 					e.printStackTrace();
 					continue;
+				}
+
+				if (all) {
+					break;
 				}
 
 			}

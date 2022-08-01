@@ -59,14 +59,14 @@ public class Main {
 		
 		if (cl.hasOption(ARG_INPUT) && !cl.hasOption(ARG_ALL)) {
 			Path input = Paths.get(cl.getOptionValue(ARG_INPUT));
-			JaffreeUtils.extractSubF(input, cl.getOptionValue(ARG_LANGUAGE, "eng"));
+			JaffreeUtils.extractSubF(input, cl.getOptionValue(ARG_LANGUAGE, "eng"), false);
 		}
 		else if (cl.hasOption(ARG_ALL)) {
 
 			File[] input = Paths.get(System.getProperty("user.dir")).toFile().listFiles(new VideoFilter());
 			for(File f : input) {
 				Path p = Paths.get(f.getAbsolutePath());
-				JaffreeUtils.extractSubF(p, cl.getOptionValue(ARG_LANGUAGE, "eng"));
+				JaffreeUtils.extractSubF(p, cl.getOptionValue(ARG_LANGUAGE, "eng"), true);
 			}
 			
 		}
